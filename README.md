@@ -1,6 +1,9 @@
-💻 IT professional & developer passionate about technology, programming, and innovation.
-🎯 Currently focused on web, mobile, and database projects.
+💻 IT professional & developer passionate about technology, programming, and innovation
+
+🎯 Currently focused on web, mobile, and database projects
+
 📚 Always learning and sharing knowledge.
+
 🌍 Goal: live in Russia within 4 years, working in the tech industry.
 
 🚀 Tech Stack
